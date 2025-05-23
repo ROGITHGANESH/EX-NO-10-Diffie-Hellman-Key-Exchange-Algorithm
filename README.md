@@ -51,7 +51,8 @@ int main() {
 }
 ~~~
 ## Output:
-![cry ex 10](https://github.com/user-attachments/assets/82b9fec9-dce7-4dec-b655-14cd0f0df3ea)
+![image](https://github.com/user-attachments/assets/3ac96a4c-f91b-41df-8a55-ebe78230ba72)
+f3ea)
 
 ## Result:
 The program is executed successfully
